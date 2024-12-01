@@ -1,0 +1,8 @@
+Look through the search results to see if the official company domain is listed.
+Official domain: The domain will often have the company name in the URL (e.g., www.companyname.com).
+Avoid real estate websites (e.g., Apartments.com, Zillow) as they are not the official company websites.
+Companies of interest include property management companies, condo management companies, loft management companies, Facility management companies, Building management companies.
+Return the Domain:
+
+If the official domain is found in the search results, return WITH ONLY the domain and NOTHING ELSE
+If no domain is found, return "Unknown Domain".
